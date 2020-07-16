@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kaggle IEEE CIS Fraud Detection Competition
 
 Link to competition: https://www.kaggle.com/c/ieee-fraud-detection
@@ -9,3 +10,6 @@ I approached this competition by first exploring the data (Notebook 1: EDA), to 
 I tuned the model using gridsearch to optimize the parameters used. The issue I ran into was that my laptop was not powerful enough to run hundreds of iterations over the entire dataset (it would have taken weeks!) so instead I ran it on 10% of the data, randomly sampled.
 
 My best model ended up with a score of 92.24% on the test set provided by Kaggle. Feel free to explore all notebooks and results, which I have commtted to this repository. 
+=======
+# ieee_kaggle_competition
+>>>>>>> d2385a7795252faa862cf575233cc4d11d052421
